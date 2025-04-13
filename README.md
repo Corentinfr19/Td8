@@ -145,3 +145,74 @@ Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
 
 - **Votre Nom** : Créateur principal du projet.
 - **Collaborateurs** : Listez les autres contributeurs si applicable.
+
+## Commandes Git Utilisées
+
+Voici les commandes Git que j'ai utilisées pour gérer ce projet :
+
+* **Initialiser un dépôt Git :**
+
+    ```bash
+    git init
+    ```
+
+* **Ajouter tous les fichiers au dépôt :**
+
+    ```bash
+    git add .
+    ```
+
+* **Effectuer un commit avec un message :**
+
+    ```bash
+    git commit -m "Message de commit"
+    ```
+
+* **Lier le dépôt local à un dépôt distant :**
+
+    ```bash
+    git remote add origin <URL_du_dépôt>
+    ```
+
+* **Pousser les commits vers le dépôt distant :**
+
+    ```bash
+    git push -u origin master
+    ```
+
+* **Créer une nouvelle branche :**
+
+    ```bash
+    git branch nom-de-la-branche
+    ```
+
+* **Changer de branche :**
+
+    ```bash
+    git checkout nom-de-la-branche
+    ```
+
+* **Fusionner une branche dans la branche actuelle :**
+
+    ```bash
+    git merge nom-de-la-branche
+    ```
+
+* **Afficher l'historique des commits :**
+
+    ```bash
+    git log
+    ```
+
+* **Afficher les modifications non commitées :**
+
+    ```bash
+    git status
+    ```
+
+**Conseils supplémentaires :**
+
+* Si vous avez utilisé des fonctionnalités Git avancées, comme les tags ou les sous-modules, n'hésitez pas à les inclure dans votre documentation.
+* Vous pouvez également ajouter des exemples de commandes Git spécifiques à votre projet, par exemple pour exécuter les tests ou déployer l'application.
+
+En ajoutant les commandes Git utilisées, vous rendrez votre `README.md` encore plus complet et utile pour les autres développeurs.
