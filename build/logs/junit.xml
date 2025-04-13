@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators" tests="11" assertions="17" errors="0" warnings="0" failures="0" skipped="0" time="0.017654">
+    <testsuite name="Tests\Validators\EstDuTexteTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstDuTexteTest.php" tests="1" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.008050">
+      <testcase name="testTexteValide" class="Tests\Validators\EstDuTexteTest" classname="Tests.Validators.EstDuTexteTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstDuTexteTest.php" line="10" assertions="2" time="0.008050"/>
+    </testsuite>
+    <testsuite name="Tests\Validators\LongueurMinTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnEmailTest.php" tests="2" assertions="3" errors="0" warnings="0" failures="0" skipped="0" time="0.001422">
+      <testcase name="testLongueurValide" class="Tests\Validators\LongueurMinTest" classname="Tests.Validators.LongueurMinTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnEmailTest.php" line="10" assertions="2" time="0.000925"/>
+      <testcase name="testLongueurInvalide" class="Tests\Validators\LongueurMinTest" classname="Tests.Validators.LongueurMinTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnEmailTest.php" line="16" assertions="1" time="0.000497"/>
+    </testsuite>
+    <testsuite name="Tests\Validators\EstUnEntierTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnEntierTest.php" tests="2" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.002195">
+      <testcase name="testEntierValide" class="Tests\Validators\EstUnEntierTest" classname="Tests.Validators.EstUnEntierTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnEntierTest.php" line="10" assertions="2" time="0.001727"/>
+      <testcase name="testEntierInvalide" class="Tests\Validators\EstUnEntierTest" classname="Tests.Validators.EstUnEntierTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnEntierTest.php" line="16" assertions="2" time="0.000469"/>
+    </testsuite>
+    <testsuite name="Tests\Validators\EstUnReelTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnReelTest.php" tests="2" assertions="3" errors="0" warnings="0" failures="0" skipped="0" time="0.001839">
+      <testcase name="testReelValide" class="Tests\Validators\EstUnReelTest" classname="Tests.Validators.EstUnReelTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnReelTest.php" line="10" assertions="2" time="0.001215"/>
+      <testcase name="testReelInvalide" class="Tests\Validators\EstUnReelTest" classname="Tests.Validators.EstUnReelTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUnReelTest.php" line="16" assertions="1" time="0.000625"/>
+    </testsuite>
+    <testsuite name="Tests\Validators\EstUneUrlTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUneUrlTest.php" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.002017">
+      <testcase name="testUrlValide" class="Tests\Validators\EstUneUrlTest" classname="Tests.Validators.EstUneUrlTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUneUrlTest.php" line="10" assertions="1" time="0.001388"/>
+      <testcase name="testUrlInvalide" class="Tests\Validators\EstUneUrlTest" classname="Tests.Validators.EstUneUrlTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\EstUneUrlTest.php" line="18" assertions="1" time="0.000628"/>
+    </testsuite>
+    <testsuite name="Tests\Validators\LongueurMaxTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\LongueurMaxTest.php" tests="2" assertions="3" errors="0" warnings="0" failures="0" skipped="0" time="0.002131">
+      <testcase name="testLongueurValide" class="Tests\Validators\LongueurMaxTest" classname="Tests.Validators.LongueurMaxTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\LongueurMaxTest.php" line="10" assertions="2" time="0.001568"/>
+      <testcase name="testLongueurInvalide" class="Tests\Validators\LongueurMaxTest" classname="Tests.Validators.LongueurMaxTest" file="C:\Users\coren\OneDrive\Documents\document de cours\Anne 2 licence\qualiter de code\td8\tests\Validators\LongueurMaxTest.php" line="16" assertions="1" time="0.000562"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

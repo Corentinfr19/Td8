@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+    bootstrap="vendor/autoload.php"
+    colors="true"
+    verbose="true"
+    processIsolation="false"
+    stopOnFailure="false"
+    backupGlobals="false"
+    backupStaticAttributes="false">
+
+    <coverage>
+        <include>
+            <directory suffix=".php">src</directory>  <!-- Inclut le répertoire src dans l'analyse de couverture -->
+        </include>
+        <exclude>
+            <directory suffix=".php">tests</directory> <!-- Exclut le répertoire tests de l'analyse -->
+        </exclude>
+    </coverage>
+
+</phpunit>
